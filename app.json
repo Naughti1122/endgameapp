@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "endgameapp",
+    "slug": "endgameapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
